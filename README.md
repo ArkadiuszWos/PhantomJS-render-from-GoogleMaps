@@ -1,7 +1,7 @@
 # PhantomJS-render-from-GoogleMaps
 render html files of average travel time (include traffic) for diff days and hours
 
-##Example of outputs:
+## Example of outputs:
 2016-01-04 Mon 00:00:00  avg_time: 45 min
 2016-01-04 Mon 01:00:00  avg_time: 45 min
 2016-01-04 Mon 02:00:00  avg_time: 45 min
